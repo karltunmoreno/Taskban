@@ -3,10 +3,10 @@
 }
 
 :root {
-  --primary: #44e9ff;
-  --secondary: #497980;
-  --tertiary: rgb(192, 246, 253);
-  --grey: #333;
+  --primary: #c8cd85;
+  --secondary: #237395;
+  --tertiary: rgb(234, 237, 212);
+  --grey: rgb(125, 178, 238);
   font-size: 62.5%;
 }
 
@@ -144,7 +144,7 @@ footer {
   border-radius: 12px;
   position: relative;
   top: -3px;
-  box-shadow: 0 3px var(--grey);
+  box-shadow: 0 3px var(--blue);
 }
 
 .btn:hover {
@@ -228,5 +228,4 @@ footer {
   .task-list-wrapper {
     flex-basis: 100%;
   }
-
 }
