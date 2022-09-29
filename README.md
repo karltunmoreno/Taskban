@@ -8,21 +8,16 @@ ________________________________________________________________________________
 ____________________________________________________________________________________________________________________________________________________________________
 
 ## What was done.
-1. Created a new feature branch.
 
-2.Added flexbox to the header.
+In this application excercise the following technology was used.
 
-3.Added flexbox to the footer.
-
-4. Added flexbox to the hero section.
-
-5. created section titles using flexbox.
-
-6. Created nested flexboxes for the "What You Do" section.
-
-7. Converted the trainer section into cards.
-
-8. Made a three-column "Reach Out" section.
+    1.HTML elements, attributes, and properties
+    2.CSS class selectors
+    3.JavaScript objects
+    4.JavaScript functions
+    4.Web Storage API
+    5. The window object
+    6.Git and GitHub
 
 
 ____________________________________________________________________________________________________________________________________________________________________
