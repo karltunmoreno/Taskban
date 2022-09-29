@@ -4,29 +4,27 @@ ________________________________________________________________________________
 # Project Visual 😎:
 ![Project-picture](https://media-exp1.licdn.com/dms/image/C5622AQGs6NuC692Ikg/feedshare-shrink_800/0/1664440734826?e=1667433600&v=beta&t=Nc-Q8_DJiqhDx8kib2sGppy3mYXBWqZkpOQmIm2Mek0)
 
-________________________________________________________________________________________________________________________________________________________________
-## Purpose
-A responsive website that offers fitness training services.
+
 ____________________________________________________________________________________________________________________________________________________________________
 
 ## What was done.
-1. Create a new feature branch.
+1. Created a new feature branch.
 
-2.Add flexbox to the header.
+2.Added flexbox to the header.
 
-3.Add flexbox to the footer.
+3.Added flexbox to the footer.
 
-4. Add flexbox to the hero section.
+4. Added flexbox to the hero section.
 
-5. Center section titles using flexbox.
+5. created section titles using flexbox.
 
-6. Create nested flexboxes for the "What You Do" section.
+6. Created nested flexboxes for the "What You Do" section.
 
-7. Convert the trainer section into cards.
+7. Converted the trainer section into cards.
 
-8. Make a three-column "Reach Out" section.
+8. Made a three-column "Reach Out" section.
 
-9. Merge the feature branch.
+
 ____________________________________________________________________________________________________________________________________________________________________
 
 ## Website
