@@ -1,13 +1,15 @@
 # Taskban
 kanban board organizational to do list tracker- taskinator
-
+_________________________________________________________________________________________________________________________________________________________________
+# Project Visual 😎:
+![Project-picture](https://media-exp1.licdn.com/dms/image/C5622AQGs6NuC692Ikg/feedshare-shrink_800/0/1664440734826?e=1667433600&v=beta&t=Nc-Q8_DJiqhDx8kib2sGppy3mYXBWqZkpOQmIm2Mek0)
 
 ________________________________________________________________________________________________________________________________________________________________
 ## Purpose
 A responsive website that offers fitness training services.
 ____________________________________________________________________________________________________________________________________________________________________
 
-## What needs to be done.
+## What was done.
 1. Create a new feature branch.
 
 2.Add flexbox to the header.
@@ -58,5 +60,4 @@ Building a website with HTML & CSS. Work included:
 - [x] SEO + accessibility factors added: Meta Description, Meta Keywords, Title Tags, image alt text 
 
 
-# Project Visual 😎:
-![Project-picture](https://media-exp1.licdn.com/dms/image/C5622AQGs6NuC692Ikg/feedshare-shrink_800/0/1664440734826?e=1667433600&v=beta&t=Nc-Q8_DJiqhDx8kib2sGppy3mYXBWqZkpOQmIm2Mek0)
+
