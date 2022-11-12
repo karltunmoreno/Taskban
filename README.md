@@ -2,7 +2,7 @@
 kanban board organizational productivity tool
 _________________________________________________________________________________________________________________________________________________________________
 # Project Visual 😎:
-![Project-picture](https://media-exp1.licdn.com/dms/image/C5622AQGs6NuC692Ikg/feedshare-shrink_800/0/1664440734826?e=1667433600&v=beta&t=Nc-Q8_DJiqhDx8kib2sGppy3mYXBWqZkpOQmIm2Mek0)
+![Project-picture](https://karltunmoreno.github.io/My-Portfolio/assets/images/Taskbanpic.jpg)
 
 
 ____________________________________________________________________________________________________________________________________________________________________
